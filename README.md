@@ -1,115 +1,89 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Neon Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=✦+NURTILEK+✦;FLUTTER+DEVELOPER;MOBILE+ARCHITECT;CODE+ARTISAN" alt="Typing SVG" />
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/nurtilek-logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>NURTILEK - Flutter Developer</title>
+</head>
 
-<br/>
+<body>
+    <nav class="navbar">
+        <div class="navbar-logo">
+            <img src="images/nurtilek-logo.png" class="logo-image">
+            <span>NURTILEK</span>
+        </div>
 
-<!-- Glowing Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:FF00FF&height=2&section=header&width=800" width="100%"/>
+        <div class="burger" id="burger">
+            <i class="fas fa-bars"></i>
+        </div>
 
-<br/>
+        <div class="nav-links" id="navLinks">
+            <a href="#home">HOME</a>
+            <a href="#projects">PROJECTS</a>
+            <a href="#about">ABOUT</a>
+            <a href="#contact">CONTACT</a>
+        </div>
+    </nav>
 
-## ✦ About Me ✦
+    <div class="hero hero-bg">
+        <div class="hero-content">
+            <h1>NURTILEK</h1>
+            <p style="color: #00FFD1; font-size: 24px; margin-top: -10px;">✦ Flutter Developer ✦</p>
+            <div class="search-container">
+                <input type="text" class="search-bar" placeholder="Search projects...">
+                <i class="fas fa-search search-icon"></i>
+            </div>
+        </div>
+    </div>
 
-<p style="font-size: 18px; color: #B0B0B0; max-width: 600px; margin: 0 auto; text-shadow: 0 0 20px rgba(0, 255, 209, 0.1);">
-  <b>Flutter Developer</b> with a passion for clean code and seamless experiences.<br/>
-  <span style="color: #00FFD1;">✦</span> Specializing in <b>Firebase</b> & <b>Clean Architecture</b><br/>
-  <span style="color: #FF00FF;">✦</span> Currently exploring <b>Kotlin Multiplatform</b>
-</p>
+    <div class="club-grid">
+        <a href='#project1' class="club-card">
+            <img src="images/flutter-app.jpg" class="club-image">
+            <div class="club-content">
+                <h3 class="club-title">Flutter Mobile App</h3>
+                <p class="club-description">Современное мобильное приложение на Flutter с использованием Firebase, Clean Architecture и BLoC паттерна.</p>
+            </div>
+        </a>
 
-<br/>
+        <a href='#project2' class="club-card">
+            <img src="images/firebase-project.jpg" class="club-image">
+            <div class="club-content">
+                <h3 class="club-title">Firebase Backend</h3>
+                <p class="club-description">Полноценный бэкенд с Firebase Authentication, Cloud Firestore, Cloud Functions и Realtime Database.</p>
+            </div>
+        </a>
 
-<!-- Glowing Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:FF00FF&height=1&section=header&width=800" width="100%"/>
+        <a href='#project3' class="club-card">
+            <img src="images/kotlin-project.jpg" class="club-image">
+            <div class="club-content">
+                <h3 class="club-title">Kotlin Multiplatform</h3>
+                <p class="club-description">Изучение Kotlin Multiplatform для создания кроссплатформенных приложений с общим кодом для Android и iOS.</p>
+            </div>
+        </a>
 
-<br/>
+        <a href='#project4' class="club-card">
+            <img src="images/dart-package.jpg" class="club-image">
+            <div class="club-content">
+                <h3 class="club-title">Dart Packages</h3>
+                <p class="club-description">Разработка собственных Dart и Flutter пакетов для упрощения разработки и повторного использования кода.</p>
+            </div>
+        </a>
 
-## ✦ GitHub Analytics ✦
+        <a href='#project5' class="club-card">
+            <img src="images/architecture.jpg" class="club-image">
+            <div class="club-content">
+                <h3 class="club-title">Clean Architecture</h3>
+                <p class="club-description">Реализация Clean Architecture в Flutter проектах с разделением на domain, data и presentation слои.</p>
+            </div>
+        </a>
+    </div>
 
-<!-- Stats Row 1 - Numbers -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurtilekb&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFD1&text_color=FFFFFF&icon_color=FF00FF&count_private=true&hide=issues,prs" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurtilekb&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFD1&text_color=FFFFFF" width="49%" />
-</p>
+    <script src="script.js"></script>
+</body>
 
-<!-- Stats Row 2 - Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurtilekb&theme=dark&hide_border=true&background=0A0A0A&ring=00FFD1&fire=FF00FF&currStreakLabel=00FFD1&sideLabels=FFFFFF" width="60%" />
-</p>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFD1&height=1&section=footer&width=800" width="100%"/>
-
-<br/>
-
-## ✦ Profile Summary ✦
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurtilekb&theme=2077" width="100%" />
-</p>
-
-<br/>
-
-<!-- 📊 STATISTICS BREAKDOWN - как в примере -->
-## ✦ Statistics Breakdown ✦
-
-<!-- First Row: Stats Cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurtilekb&theme=2077" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurtilekb&theme=2077&utcOffset=6" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nurtilekb&theme=2077" width="32%" />
-</p>
-
-<!-- Second Row: Additional Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurtilekb&theme=2077" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=Nurtilekb&theme=2077" width="49%" />
-</p>
-
-<br/>
-
-<!-- 📈 DETAILED METRICS - как в примере -->
-## ✦ Detailed Metrics ✦
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  📊 GitHub Profile Stats                                   │
-│  ─────────────────────────────────────────────────────────  │
-│                                                             │
-│  👤 Username:        Nurtilekb                             │
-│  🏢 Organization:    (your company/uni)                   │
-│  📍 Location:        (your city)                          │
-│  🌐 Telegram:        t.me/your_telegram                   │
-│                                                             │
-│  📈 Contributions                                          │
-│  ─────────────────────────────────────────────────────────  │
-│  • Total Stars:       ⭐ 0                                 │
-│  • Total Commits:     📝 ~380                             │
-│  • Total PRs:         🔀 14                               │
-│  • Total Issues:      🐛 0                                │
-│  • Contributed to:    🤝 0                                │
-│                                                             │
-│  🏆 Top Languages (by Commit)                              │
-│  ─────────────────────────────────────────────────────────  │
-│  • Dart              ████████████████░░░░  78.0%          │
-│  • Python            ████░░░░░░░░░░░░░░░░  12.0%          │
-│  • Kotlin            ██░░░░░░░░░░░░░░░░░░   6.0%          │
-│  • JavaScript        ██░░░░░░░░░░░░░░░░░░   4.0%          │
-│                                                             │
-│  🏆 Top Languages (by Repo)                                │
-│  ─────────────────────────────────────────────────────────  │
-│  • Dart              ████████████████░░░░  75.0%          │
-│  • Python            ████░░░░░░░░░░░░░░░░  15.0%          │
-│  • Kotlin            ███░░░░░░░░░░░░░░░░░  10.0%          │
-│                                                             │
-│  🎯 Achievements                                           │
-│  ─────────────────────────────────────────────────────────  │
-│  • 🥇 Flutter Developer                                    │
-│  • 🥈 Firebase Specialist                                  │
-│  • 🥉 Clean Code Advocate                                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+</html>
