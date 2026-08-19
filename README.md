@@ -10,14 +10,7 @@
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nurtilekb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurtilekb&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="49%" />
-
+ 
 </div>
 ## 📈 CONTRIBUTIONS
 <div align="center">
@@ -69,15 +62,7 @@
 </div>
 
 ---
-
-## 💻 CODE STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nurtilekb&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&text_color=FFFFFF&icon_color=00F7FF" width="70%" />
-
-</div>
-
+ 
 ---
 
 ## 🧑‍💻 MOST USED LANGUAGES
@@ -85,18 +70,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurtilekb&layout=donut&langs_count=10&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="45%" />
 
 </div>
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nurtilekb/Nurtilekb/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
+ 
+ 
 ### `SYSTEM STATUS`
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117" />
