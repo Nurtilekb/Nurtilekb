@@ -20,29 +20,32 @@
 
 <br/>
 
-<!-- Modern Neon Tech Stack -->
-## ✦ Core Stack ✦
+<!-- Glowing Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:FF00FF&height=1&section=header&width=800" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0A0A0A&color=00FFD1" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0A0A0A&color=00BFFF" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0A0A0A&color=FF6B00" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A&color=FF00FF" />
+<br/>
+
+## ✦ GitHub Analytics ✦
+
+<!-- Stats Row 1 - Numbers -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurtilekb&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFD1&text_color=FFFFFF&icon_color=FF00FF&count_private=true&hide=issues,prs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurtilekb&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFD1&text_color=FFFFFF" width="49%" />
+</p>
+
+<!-- Stats Row 2 - Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurtilekb&theme=dark&hide_border=true&background=0A0A0A&ring=00FFD1&fire=FF00FF&currStreakLabel=00FFD1&sideLabels=FFFFFF" width="60%" />
 </p>
 
 <br/>
 
-<!-- Neon Stats Cards -->
-## ✦ GitHub Pulse ✦
+<!-- Glowing Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFD1&height=1&section=footer&width=800" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurtilekb&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFD1&text_color=FFFFFF&icon_color=FF00FF&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurtilekb&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFD1&text_color=FFFFFF" width="49%" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurtilekb&theme=dark&hide_border=true&background=0A0A0A&ring=00FFD1&fire=FF00FF&currStreakLabel=00FFD1&sideLabels=FFFFFF" alt="GitHub Streak" />
-</p>
+## ✦ Profile Summary ✦
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurtilekb&theme=2077" width="100%" />
@@ -50,25 +53,63 @@
 
 <br/>
 
-<!-- Glowing Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFD1&height=2&section=footer&width=800" width="100%"/>
+<!-- 📊 STATISTICS BREAKDOWN - как в примере -->
+## ✦ Statistics Breakdown ✦
 
-<br/>
+<!-- First Row: Stats Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurtilekb&theme=2077" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurtilekb&theme=2077&utcOffset=6" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nurtilekb&theme=2077" width="32%" />
+</p>
 
-## ✦ Connect ✦
-
-<p>
-  <a href="https://github.com/Nurtilekb">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
-  <a href="https://t.me/nurtilek_b">
-    <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00BFFF&labelColor=0A0A0A&color=0A0A0A" />
-  </a>
+<!-- Second Row: Additional Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurtilekb&theme=2077" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=Nurtilekb&theme=2077" width="49%" />
 </p>
 
 <br/>
 
-<!-- Neon Footer Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&duration=2000&pause=2000&color=FF00FF&center=true&vCenter=true&width=400&lines=✦+BUILDING+THE+FUTURE+✦;✦+ONE+WIDGET+AT+A+TIME+✦" alt="Typing SVG" />
+<!-- 📈 DETAILED METRICS - как в примере -->
+## ✦ Detailed Metrics ✦
 
-</div>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  📊 GitHub Profile Stats                                   │
+│  ─────────────────────────────────────────────────────────  │
+│                                                             │
+│  👤 Username:        Nurtilekb                             │
+│  🏢 Organization:    (your company/uni)                   │
+│  📍 Location:        (your city)                          │
+│  🌐 Telegram:        t.me/your_telegram                   │
+│                                                             │
+│  📈 Contributions                                          │
+│  ─────────────────────────────────────────────────────────  │
+│  • Total Stars:       ⭐ 0                                 │
+│  • Total Commits:     📝 ~380                             │
+│  • Total PRs:         🔀 14                               │
+│  • Total Issues:      🐛 0                                │
+│  • Contributed to:    🤝 0                                │
+│                                                             │
+│  🏆 Top Languages (by Commit)                              │
+│  ─────────────────────────────────────────────────────────  │
+│  • Dart              ████████████████░░░░  78.0%          │
+│  • Python            ████░░░░░░░░░░░░░░░░  12.0%          │
+│  • Kotlin            ██░░░░░░░░░░░░░░░░░░   6.0%          │
+│  • JavaScript        ██░░░░░░░░░░░░░░░░░░   4.0%          │
+│                                                             │
+│  🏆 Top Languages (by Repo)                                │
+│  ─────────────────────────────────────────────────────────  │
+│  • Dart              ████████████████░░░░  75.0%          │
+│  • Python            ████░░░░░░░░░░░░░░░░  15.0%          │
+│  • Kotlin            ███░░░░░░░░░░░░░░░░░  10.0%          │
+│                                                             │
+│  🎯 Achievements                                           │
+│  ─────────────────────────────────────────────────────────  │
+│  • 🥇 Flutter Developer                                    │
+│  • 🥈 Firebase Specialist                                  │
+│  • 🥉 Clean Code Advocate                                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
